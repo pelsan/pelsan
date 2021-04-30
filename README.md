@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pelsan : Pedro Coronel Santeliz
 - 👀 I’m interested in Machine Learning, Deep Reinforcement Learning, Virtual Reality
-- 🌱 I’m currently learning at [Deep Reinforcement Learning Nanodegree Program in Udacity.com](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+- 🌱 I’m Graduated at [Deep Reinforcement Learning Nanodegree Program in Udacity.com](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me : pelsanmexico@gmail.com
 
